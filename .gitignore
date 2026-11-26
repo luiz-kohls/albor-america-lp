@@ -1,0 +1,6 @@
+# Material original do cliente: fica só no computador, nunca no GitHub (pedido do briefing)
+material/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
